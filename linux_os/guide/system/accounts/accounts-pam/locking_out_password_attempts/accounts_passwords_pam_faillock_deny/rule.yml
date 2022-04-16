@@ -1,6 +1,6 @@
 documentation_complete: true
 
-prodtype: fedora,ol7,ol8,rhel7,rhel8,rhel9,rhv4,wrlinux1019
+prodtype: fedora,ol7,ol8,rhel7,rhel8,rhel9,rhv4,sle12,sle15,wrlinux1019
 
 title: 'Lock Accounts After Failed Password Attempts'
 
@@ -24,7 +24,8 @@ identifiers:
     cce@rhel7: CCE-27350-8
     cce@rhel8: CCE-80667-9
     cce@rhel9: CCE-83587-6
-    cce@sle15: CCE-85842-3
+    cce@sle12: CCE-83211-3
+    cce@sle15: CCE-85739-1
 
 references:
     anssi: BP28(R18)

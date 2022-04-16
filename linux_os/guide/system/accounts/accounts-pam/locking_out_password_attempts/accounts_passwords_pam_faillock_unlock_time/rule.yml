@@ -1,6 +1,6 @@
 documentation_complete: true
 
-prodtype: fedora,ol7,ol8,rhel7,rhel8,rhel9,rhv4
+prodtype: fedora,ol7,ol8,rhel7,rhel8,rhel9,rhv4,sle12,sle15
 
 title: 'Set Lockout Time for Failed Password Attempts'
 
@@ -24,6 +24,7 @@ identifiers:
     cce@rhel7: CCE-26884-7
     cce@rhel8: CCE-80670-3
     cce@rhel9: CCE-83588-4
+    cce@sle12: CCE-83212-1
     cce@sle15: CCE-85841-5
 
 references:
